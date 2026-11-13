@@ -1,0 +1,88 @@
+{
+  "/": [
+    {
+      "container": "hbod96",
+      "scene": "QzFYO-pwcQCbiF9t",
+      "url": "https://prod.spline.design/QzFYO-pwcQCbiF9t/scene.splinecode"
+    }
+  ],
+  "/about": [
+    {
+      "container": "1dvvq2b",
+      "scene": "r-GeM7GzPYPpPajD",
+      "url": "https://prod.spline.design/r-GeM7GzPYPpPajD/scene.splinecode"
+    },
+    {
+      "container": "1pzl3cl",
+      "scene": "Fs5omoRpmtrXHxMB",
+      "url": "https://prod.spline.design/Fs5omoRpmtrXHxMB/scene.splinecode"
+    },
+    {
+      "container": "1at56d1",
+      "scene": "2byqvdPRUGrylKq9",
+      "url": "https://prod.spline.design/2byqvdPRUGrylKq9/scene.splinecode"
+    }
+  ],
+  "/contact": [
+    {
+      "container": "1tcf8ud",
+      "scene": "G3iOl8bcULV9TyuM",
+      "url": "https://prod.spline.design/G3iOl8bcULV9TyuM/scene.splinecode"
+    }
+  ],
+  "/pl": [
+    {
+      "container": "1g6oyup",
+      "scene": "QzFYO-pwcQCbiF9t",
+      "url": "https://prod.spline.design/QzFYO-pwcQCbiF9t/scene.splinecode"
+    }
+  ],
+  "/pl/about": [
+    {
+      "container": "yupdpz",
+      "scene": "r-GeM7GzPYPpPajD",
+      "url": "https://prod.spline.design/r-GeM7GzPYPpPajD/scene.splinecode"
+    },
+    {
+      "container": "18z8pxx",
+      "scene": "Fs5omoRpmtrXHxMB",
+      "url": "https://prod.spline.design/Fs5omoRpmtrXHxMB/scene.splinecode"
+    },
+    {
+      "container": "1qubi91",
+      "scene": "2byqvdPRUGrylKq9",
+      "url": "https://prod.spline.design/2byqvdPRUGrylKq9/scene.splinecode"
+    }
+  ],
+  "/pl/contact": [
+    {
+      "container": "2z5u1x",
+      "scene": "G3iOl8bcULV9TyuM",
+      "url": "https://prod.spline.design/G3iOl8bcULV9TyuM/scene.splinecode"
+    }
+  ],
+  "/work/ewm": [
+    {
+      "container": "a3sc99",
+      "scene": "LiB2jI182rqR3Zfw",
+      "url": "https://prod.spline.design/LiB2jI182rqR3Zfw/scene.splinecode"
+    },
+    {
+      "container": "1yvj407",
+      "scene": "3xS0KBhOSgTICcoC",
+      "url": "https://prod.spline.design/3xS0KBhOSgTICcoC/scene.splinecode"
+    }
+  ],
+  "/pl/work/ewm": [
+    {
+      "container": "1p84hw0",
+      "scene": "LiB2jI182rqR3Zfw",
+      "url": "https://prod.spline.design/LiB2jI182rqR3Zfw/scene.splinecode"
+    },
+    {
+      "container": "1l904id",
+      "scene": "3xS0KBhOSgTICcoC",
+      "url": "https://prod.spline.design/3xS0KBhOSgTICcoC/scene.splinecode"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+# dependencies / build output
+node_modules/
+.next/
+.next-build/
+
+# Assets hard-linked into the Next app from ../mirror by tools/to_next.py.
+# Tracking them would duplicate ~157 MB that mirror/ already holds.
+# Recreate after a fresh clone with:  python3 tools/to_next.py
+next-app/public/framerusercontent.com/
+next-app/public/fonts.gstatic.com/
+
+# local noise
+.DS_Store
+*.log
+*.zip
